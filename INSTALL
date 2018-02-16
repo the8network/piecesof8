@@ -1,0 +1,9 @@
+Building 8
+
+See doc/readme-qt.rst for instructions on building 8-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of 8.
+
+See doc/build-*.txt for instructions on building 8d,
+the intended-for-services, no-graphical-interface, reference
+implementation of 8.
