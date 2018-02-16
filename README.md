@@ -15,8 +15,8 @@ Pieces of 8 uses scrypt as a proof-of-work algorithm.
 Value relativity
 ----------------
 Based on supply limits alone, an individual "piece of 8" has a relative "worth" equivalent to:
-23.62x the value of Bitcoin (total supply == 21 Million)
-94.50x the value of Litecoin (total supply == 84 Million)
+ - 23.62x the value of Bitcoin (total supply == 21 Million)
+ - 94.50x the value of Litecoin (total supply == 84 Million)
 
 License
 -------
