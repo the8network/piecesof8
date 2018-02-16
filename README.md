@@ -5,7 +5,7 @@ Copyright (c) 2018 the8.network Developers
 What are Pieces of 8, aka "8"?
 ----------------
 
-Pieces of 8, or just "8", are derived from Litecoin, which is a lite version of Bitcoin.
+Pieces of 8 (or just: 8), are derived from Litecoin, a lite version of Bitcoin.
 Pieces of 8 uses scrypt as a proof-of-work algorithm.
  - 8 minute block targets
  - subsidy halves in 888k blocks (~4 years)
