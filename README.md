@@ -2,10 +2,10 @@ Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoin Developers
 Copyright (c) 2018 the8.network Developers
 
-What are Pieces of 8, aka "8"?
+What are Pieces of 8, aka "P8"?
 ----------------
 
-Pieces of 8 (or just: 8), are derived from Litecoin, a lite version of Bitcoin.
+Pieces of 8 (P8), are derived from Litecoin, a lite version of Bitcoin.
 Pieces of 8 uses scrypt as a proof-of-work algorithm.
  - 8 minute block targets
  - subsidy halves in 888k blocks (~4 years)
@@ -21,7 +21,7 @@ Based on supply limits alone, an individual "piece of 8" has a relative "worth" 
 License
 -------
 
-"8" / Pieces of 8 is released under the terms of the MIT license. See `COPYING` for more
+P8 / Pieces of 8 is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
