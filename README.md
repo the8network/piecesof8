@@ -9,16 +9,8 @@ What are Pieces of 8, aka "P8"?
 
 Pieces of 8 (P8), is a blockchain network derived from Litecoin, a lite version of Bitcoin.
 Pieces of 8 uses scrypt as a proof-of-work algorithm.
- - 8 minute block targets
- - 888,888 total coins supply
  - 88 coins per block
  - 88 blocks maturity for mined coins 
-
-Value relativity
-----------------
-Based on supply limits alone, an individual "Piece of 8" has a relative "worth" equivalent to:
- - 23.62x the value of Bitcoin (total supply == 21 Million)
- - 94.50x the value of Litecoin (total supply == 84 Million)
 
 Nodes
 -----
