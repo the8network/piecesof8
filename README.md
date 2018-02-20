@@ -12,6 +12,7 @@ Pieces of 8 uses scrypt as a proof-of-work algorithm.
  - 8 minute block targets
  - 888,888 total coins supply
  - 88 coins per block
+ - 88 blocks maturity for mined coins 
 
 Value relativity
 ----------------
