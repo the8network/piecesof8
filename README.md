@@ -1,11 +1,8 @@
-![P8](https://explorer.piecesof8.network/images/logo.png)
-
+  <img src="https://explorer.piecesof8.network/images/logo.png"/>
 
 # Pieces of 8
-
-https://www.piecesof8.network/
-
-https://explorer.piecesof8.network/
+<a align="center" href="https://www.piecesof8.network/">https://www.piecesof8.network/</a><br/>
+<a href="https://explorer.piecesof8.network/">https://explorer.piecesof8.network/</a>
 
 What are Pieces of 8, aka "P8"?
 ----------------
